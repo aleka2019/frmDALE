@@ -18,6 +18,7 @@ namespace frmDALE
         public Form1()
         {
             InitializeComponent();
+            string bomia="ola";
         }
 
         private void InitializeComponent()
