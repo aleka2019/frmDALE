@@ -15,7 +15,6 @@ namespace frmDALE
         public frmLogin()
         {
             InitializeComponent();
-            var bomdia ="hoje eu mato um";
         }
 
         
