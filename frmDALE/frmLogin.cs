@@ -15,6 +15,7 @@ namespace frmDALE
         public frmLogin()
         {
             InitializeComponent();
+
         }
 
         
